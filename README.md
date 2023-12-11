@@ -1,6 +1,6 @@
-# hyper-modern.github.io
+# hypermodernstack.com
 
-The HyperModern tech stack uses PNPM/Turbo Monorepos, Next.js, TypeScript, Agents (LLMs), Workflows, and Data Repositories to run organizations of the future.
+The HyperModern tech stack uses PNPM/Turbo Monorepos, Next.js, TypeScript, Agents (LLMs), Workflows, xState Machines, and Data Repositories to run organizations of the future.
 
 This site is built using [Nextra](https://nextra.site), a template for creating documentation using Next.js.
 
