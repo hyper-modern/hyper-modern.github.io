@@ -1,23 +1,9 @@
-# Nextra Docs Template 
+# hyper-modern.github.io
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+The HyperModern tech stack uses PNPM/Turbo Monorepos, Next.js, TypeScript, Agents (LLMs), Workflows, and Data Repositories to run organizations of the future.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+This site is built using [Nextra](https://nextra.site), a template for creating documentation using Next.js.
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[**Live Website →**](https://hyper-modern.github.io)
 
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+[![](.github/website-screenshot.png)](https://hyper-modern.github.io)

@@ -1,7 +1,7 @@
 // Example from https://beta.reactjs.org/learn
 
 import { useState } from 'react'
-import styles from './counters.module.css'
+import Button from './Button'
 
 function MyButton() {
   const [count, setCount] = useState(0)
@@ -12,9 +12,9 @@ function MyButton() {
 
   return (
     <div>
-      <button onClick={handleClick} className={styles.counter}>
+      <Button onClick={handleClick}>
         Clicked {count} times
-      </button>
+      </Button>
     </div>
   )
 }
